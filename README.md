@@ -1,6 +1,6 @@
 # Understanding-food-access-and-food-insecurity-in-Michigan-and-Greater-Detroit-Area
 
-This is a group project in which we used Excel, Tableau, and R to do statistical analysis including binomial logistics regression analysis, univariate and bivariate analyais to understand the food access and food insecurity problems in Michigan and Greater Detroit Area. 
+This is a project in which I used Excel, Tableau, and R to do statistical analysis including binomial logistics regression analysis, univariate and bivariate analyais to understand the food access and food insecurity problems in Michigan and Greater Detroit Area. 
 
 Summary of tasks: 
 1. Created maps on Tableau to show total number of individuals in each county that are Low Access for the state of Michigan and Greater Detroit Area 
