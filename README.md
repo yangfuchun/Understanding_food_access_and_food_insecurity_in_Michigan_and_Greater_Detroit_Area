@@ -1,10 +1,12 @@
-# Understanding-food-access-and-food-insecurity-in-Michigan-and-Greater-Detroit-Area
+### Overview
+This project aims to investigate food access and food insecurity issues in the state of Michigan, particularly in the Greater Detroit Area. The project will utilize several analytical tools such as Excel, Tableau, and R to conduct statistical analysis on the data collected. The analysis will include binomial logistic regression analysis, univariate and bivariate analysis, and other relevant statistical techniques. The findings of the statistical analysis can be used to inform policy decisions, community outreach programs, and other initiatives aimed at addressing these issues.
 
-This is a project in which I used Excel, Tableau, and R to do statistical analysis including binomial logistics regression analysis, univariate and bivariate analyais to understand the food access and food insecurity problems in Michigan and Greater Detroit Area. 
+### Description of files
+App: Contains javascript files and app.py file which implements Flask & Plotly to create the web app
+Data: Contains two CSV files disaster_messages.csv - Contains all the past messages & 'disaster_categories.csv' - contains the categories of the disaster messages
+Model: Contains the Machine Learning Pipeline python script file to perform all the training and testing of the data
 
-Summary of tasks: 
-1. Created maps on Tableau to show total number of individuals in each county that are Low Access for the state of Michigan and Greater Detroit Area 
-2. Run binomial logistics regression model to see if census tracts are more likely to be deemed low access based on if they are urban, the proportion of the tract population that is African American, the population size, the proportion of the tract that are seniors
-3. Presented Univariate Descriptive Statistics on food-insecurity related variabels, parental status, and race for MI overall, Wayne County, and Genesee County
-4. Computed chi-squared analyses to analyze the relationship between race, parental status, and food-insecurity related variables 
-5. Suggested policy reform to address the food access and food insecurity in Michigan and especially Greater Detroit Area
+### List of tools used
+`Excel` `R` `Tableau`
+
+### Snapshots
