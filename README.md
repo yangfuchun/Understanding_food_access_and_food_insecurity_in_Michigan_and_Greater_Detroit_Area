@@ -10,3 +10,4 @@ Model: Contains the Machine Learning Pipeline python script file to perform all 
 `Excel` `R` `Tableau`
 
 ### Snapshots
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/100629848/230496030-28f246cf-9c25-4231-bbdd-4ec5bccd0406.png">
